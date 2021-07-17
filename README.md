@@ -1,3 +1,8 @@
+# Projeto
+
+- Typescript
+- React Hooks
+
 # Projeto em React Hooks Context
 
 (React.useContext) - Esse projeto tem como intuito demonstrar utilizando conceitos do useContext. Sua definição é utilizar o Context passando para outros componentes através de um Provider e o o componente que irá receber(consumer).
