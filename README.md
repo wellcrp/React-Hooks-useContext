@@ -1,3 +1,12 @@
+# Projeto em React Hooks Context
+
+(React.useContext) - Esse projeto tem como intuito demonstrar utilizando conceitos do useContext. Sua definição é utilizar o Context passando para outros componentes através de um Provider e o o componente que irá receber(consumer).
+
+# Projeto em React Hooks Memo
+
+(React.memo) - Muito parecido com o useContext em sua forma de aplicação, porém o conceito é muito utilizado para renderizações desnecessárias (performance), ou seja, o react.Memo guarda o ultimo estado da propriedade e caso haja algura alteração no estado ele será atualizado.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
